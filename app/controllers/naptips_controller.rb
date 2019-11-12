@@ -1,0 +1,2 @@
+class NaptipsController < ApplicationController
+end

@@ -1,0 +1,2 @@
+module NaptipsHelper
+end
