@@ -1,0 +1,2 @@
+class Naptip < ApplicationRecord
+end
